@@ -50,4 +50,5 @@ void main() {
   for (int i = 0;i <= 90; i++) {
     match.playGame(i);
   }
+  match.printMatchFacts();
 }
